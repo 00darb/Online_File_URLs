@@ -1,0 +1,5 @@
+tally-custom-fonts/
+  .nojekyll
+  fonts/
+    MyBodyFont.woff2
+    MyBodyFont.woff
